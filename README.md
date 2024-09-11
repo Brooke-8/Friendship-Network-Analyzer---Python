@@ -1,6 +1,6 @@
 # Friend Network Analyzer - Python
 Brooke MacQuarrie - bmacq014@uottawa.ca
-Reads file containing a network of friendship connections and gives statisitics pertaining to the data set.
+Reads file containing a network of friendship connections and gives statistics about the data set.
 
 Use:
 - Run Friendnetwork.py
